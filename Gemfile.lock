@@ -1,6 +1,7 @@
 GEM
   specs:
     coderay (1.1.1)
+    dotenv (2.5.0)
     mail (2.6.5)
       mime-types (>= 1.16, < 4)
     method_source (0.8.2)
@@ -29,6 +30,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   pony
   pry
   sinatra

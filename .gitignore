@@ -1,0 +1,4 @@
+List all the directories/files here that you don't want to be committed to github
+(i.e. anything with secrets in)
+
+.env
